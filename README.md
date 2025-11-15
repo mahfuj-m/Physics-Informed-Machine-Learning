@@ -3,4 +3,4 @@ This repository contains different physics equations and integration  with neura
 
 Overview of Physics informed learning
 
-[!till](Thermodynamics/pinn_temp.gif)
+![file](Thermodynamics/pinn_temp.gif)
